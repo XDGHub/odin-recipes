@@ -9,3 +9,7 @@ stated goal has been reachrd it will be revisited to add css and
 j script for a more robust, fleshed-out website. I can optimize the
 code from there but my time may be better spent continuing through
 course.
+
+11/25/23
+
+Added index.html for homepage. First link in next push.
