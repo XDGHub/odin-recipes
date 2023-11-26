@@ -1,9 +1,17 @@
 11/25/23
 
 -Added index.html for homepage. First link in next push.
+
 -Second update: Added link "ramen_bowl.html" to odin-recipes. I appologies for the excesive same day updates. Recipes
 excercise requires pushes after each iteration.
+
 -Third update: I figure I should stop using the README like a change log
 and set one up instead. I also, added an image folder to the odin-recipes
 directory for display on the ramen_bowl.html page. I need to start recording
 directory changes too. The last few iterations I completely neglected that info.
+
+-Fourth update: Added two additional recipe pages (chicken_alfredo.html
+and pizza.html) to odin-recipes. Added both new links to index.html.
+Updated changelog.txt. Added and linked two new images of the
+additional recipes and placed an image tag into each respective page.
+Added new line to index.html (ln 12).
